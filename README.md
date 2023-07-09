@@ -1,1 +1,1 @@
-My first readme
+CodeSyries is always learning
